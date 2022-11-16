@@ -1,0 +1,40 @@
+{
+  "Magento": {
+    "url": "http://magento-demo.mstore.io",
+    "accessToken": "99g54c7r1gx0a5oo4kisgkqyx8gitkei"
+  },
+  "HorizonLayout": [
+    {
+      "layout": "circleCategory"
+    },
+    {
+      "layout": "bannerHigh",
+      "category": 14
+    },
+    {
+      "imageBanner": "http://s3-ap-southeast-1.amazonaws.com/mstore-bucket.io/wp-content/uploads/2019/02/25142145/woman-large.png",
+      "layout": "bannerImage",
+      "height": 118,
+      "category": 11
+    },
+    {
+      "imageBanner": "http://s3-ap-southeast-1.amazonaws.com/mstore-bucket.io/wp-content/uploads/2019/02/25142102/MAN-large.png",
+      "layout": "bannerImage",
+      "height": 118,
+      "category": 12
+    },
+    {
+      "name": "featureProducts",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 13
+    },
+    {
+      "name": "bagsCollections",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 15
+    }
+  ],
+  "MainColor": "#3FC1BE"
+}

@@ -1,0 +1,20 @@
+{
+  "Magento": {
+    "url": "http://magento-demo.mstore.io",
+    "accessToken": "99g54c7r1gx0a5oo4kisgkqyx8gitkei"
+  },
+  "HorizonLayout": [
+    {
+      "layout": "circleCategory"
+    },
+    {
+      "layout": "bannerHigh",
+      "category": 6
+    }
+  ],
+  "VerticalLayout": {
+    "name": "Recents",
+    "layout": "twoColumn"
+  },
+  "MainColor": "#2196F3"
+}

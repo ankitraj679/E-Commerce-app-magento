@@ -1,0 +1,58 @@
+{
+  "Magento": {
+    // Please replace your own Magento site info
+    "url": "https://vedicvaani.com",
+    "accessToken": "fcpa1i7265cd9nue9pz1wqnzh3p96gf3"
+  },
+  "HorizonLayout": [
+    {
+      "name": "home_block_1",
+      "image": "",
+      "layout": "list",
+      "category": 275
+    },
+    {
+      "layout": "bannerImage",
+      "category": 275,
+      "imageBanner": "https://vedicvaani.com/pub/media/wysiwyg/Banners/SHIV-PARIVAR-PUJA-YAGNA.jpg"
+    },
+    {
+      "layout": "circleCategory"
+    },
+    {
+      "name": "home_block_2",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 202
+    },
+    {
+      "layout": "bannerHigh",
+      "category": 202
+    },
+    {
+      "name": "home_block_3",
+      "image": "",
+      "layout": "list",
+      "category": 155
+    },
+    {
+      "name": "home_block_4",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 17
+    },
+    {
+      "name": "home_block_5",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 176
+    },
+    {
+      "name": "home_block_6",
+      "image": "",
+      "layout": "card",
+      "category": 141
+    }
+  ],
+  "MainColor": "#3FC1BE"
+}

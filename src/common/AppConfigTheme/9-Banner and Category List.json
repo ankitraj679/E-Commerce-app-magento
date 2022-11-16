@@ -1,0 +1,17 @@
+{
+  "Magento": {
+    "url": "http://magento-demo.mstore.io",
+    "accessToken": "99g54c7r1gx0a5oo4kisgkqyx8gitkei"
+  },
+  "HorizonLayout": [
+    {
+      "layout": "banner",
+      "category": 4
+    },
+    {
+      "layout": "circleCategory",
+      "column": 4
+    }
+  ],
+  "MainColor": "#E91E63"
+}

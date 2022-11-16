@@ -1,0 +1,29 @@
+{
+  "Magento": {
+    "url": "http://magento-demo.mstore.io",
+    "accessToken": "99g54c7r1gx0a5oo4kisgkqyx8gitkei"
+  },
+  "HorizonLayout": [
+    {
+      "imageBanner": "http://s3-ap-southeast-1.amazonaws.com/mstore-bucket.io/wp-content/uploads/2019/02/25142018/collection.png",
+      "layout": "bannerImage",
+      "height": 160,
+      "imageMode": "cover",
+      "category": 18
+    },
+    {
+      "layout": "circleCategory"
+    },
+    {
+      "name": "featureProducts",
+      "image": "",
+      "layout": "card",
+      "category": 19
+    }
+  ],
+  "VerticalLayout": {
+    "name": "Recents",
+    "layout": "threeColumn"
+  },
+  "MainColor": "#FF5722"
+}

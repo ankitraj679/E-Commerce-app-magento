@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Vedic-vaani",
+    "description": "ecommerce app build with magento",
+    "slug": "Vedic-vaani",
+    "privacy": "unlisted",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/app.png",
+    "splash": {
+      "image": "./assets/splash1.png",
+      "resizeMode": "cover"
+    },
+    "assetBundlePatterns": [
+      "assets/fonts/*",
+      "assets/images/icons/*",
+      "src/images/*",
+      "src/Expo/vector-icons/fonts//*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.inspireui.magenstore",
+      "buildNumber": "1"
+    },
+    "android": {
+      "package": "com.inspireui.magenstore"
+    },
+    "updates": {
+      "enabled": false,
+      "fallbackToCacheTimeout": 0
+    },
+    "version": "1.0.0",
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "facebookScheme": "fb287651401615534",
+    "facebookAppId": "287651401615534",
+    "facebookDisplayName": "Cavaraty",
+    "plugins": [
+      "sentry-expo"
+    ]
+  }
+}

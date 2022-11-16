@@ -1,0 +1,36 @@
+[
+    {
+        "country": "Kuwait",
+        "stores": [
+            {
+                "name": "The Avenues Mall",
+                "link": "https://www.google.com/maps/place/Cavaraty+Store+%D9%83%D9%81%D8%B1%D8%A7%D8%AA%D9%8A%E2%80%AD/@29.3251144,48.0482309,13z/data=!4m5!3m4!1s0x3fcf9af4ae3d8001:0x92dedaf99f465130!8m2!3d29.304322!4d47.941998",
+                "address": "Phase 4, Entrance #26, Rai",
+                "opentime": "Open from 10am to 11pm"
+            },
+            {
+                "name": "Symphony Mall",
+                "link": "https://www.google.com/maps/place/%E2%80%8F%D9%85%D8%AD%D9%84+%D9%83%D9%81%D8%B1%D8%A7%D8%AA%D9%8A%E2%80%AD/@29.3251144,48.0482309,13z/data=!4m5!3m4!1s0x3fcf7628bb4d505b:0x3827b1938f862484!8m2!3d29.345916!4d48.084425?shorturl=1",
+                "address": "M Floor, Salmiya",
+                "opentime": "Open from 10am to 11pm"
+            }
+        ]
+    },
+    {
+        "country": "Saudi Arabia",
+        "stores": [
+            {
+                "name": "Riyadh Park Mall",
+                "link": "https://www.google.com/maps/place/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6+%D8%A8%D8%A7%D8%B1%D9%83%E2%80%AD/@24.7591349,46.7006256,14z/data=!4m5!3m4!1s0x3e2ee2583756e2cd:0xdae5942c74ae6bc6!8m2!3d24.7554686!4d46.6300661?shorturl=1",
+                "address": "Ground Floor, Entrance # 3",
+                "opentime": "Open from 10am to 11pm\nFriday: 2:00pm to 11pm"
+            },
+            {
+                "name": "Uthman Ibn Affan",
+                "link": "https://www.google.com/maps/place/%D9%83%D9%81%D8%B1%D8%A7%D8%AA%D9%8A%E2%80%AD/@24.7949452,46.7010181,17z/data=!3m1!4b1!4m5!3m4!1s0x3e2efce345dd4a8d:0xed8d9d13e6729120!8m2!3d24.7949452!4d46.6988294?shorturl=1",
+                "address": "7960 Uthman Ibn Affan Rd, Al Wadi, Riyadh 13313, Saudi Arabia",
+                "opentime": "Open from 9am to 11pm\nFriday: 4pm to 11am"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+{
+  "Magento": {
+    "url": "http://magento-demo.mstore.io",
+    "accessToken": "99g54c7r1gx0a5oo4kisgkqyx8gitkei"
+  },
+  "HorizonLayout": [
+    {
+      "layout": "circleCategory"
+    },
+    {
+      "imageBanner": "http://s3-ap-southeast-1.amazonaws.com/mstore-bucket.io/wp-content/uploads/2019/02/25174258/sale2.png",
+      "column": 2,
+      "layout": "bannerImage",
+      "category": 19
+    },
+    {
+      "imageBanner": "http://s3-ap-southeast-1.amazonaws.com/mstore-bucket.io/wp-content/uploads/2019/02/25174231/feature2.png",
+      "column": 2,
+      "layout": "bannerImage",
+      "category": 4
+    },
+    {
+      "imageBanner": "http://s3-ap-southeast-1.amazonaws.com/mstore-bucket.io/wp-content/uploads/2019/02/25142145/woman-large.png",
+      "layout": "bannerImage",
+      "height": 118,
+      "category": 5
+    },
+    {
+      "imageBanner": "http://s3-ap-southeast-1.amazonaws.com/mstore-bucket.io/wp-content/uploads/2019/02/25142102/MAN-large.png",
+      "layout": "bannerImage",
+      "height": 118,
+      "category": 6
+    },
+    {
+      "imageBanner": "https://inspireui.com/wp-content/uploads/2019/04/Preview_12.jpg",
+      "column": 2,
+      "layout": "bannerImage",
+      "category": 4
+    },
+    {
+      "imageBanner": "https://inspireui.com/wp-content/uploads/2019/04/Preview_11.jpg",
+      "column": 2,
+      "layout": "bannerImage",
+      "category": 4
+    },
+    {
+      "imageBanner": "https://inspireui.com/wp-content/uploads/2019/04/Preview_9.jpg",
+      "column": 2,
+      "layout": "bannerImage",
+      "category": 4
+    },
+    {
+      "imageBanner": "https://inspireui.com/wp-content/uploads/2019/04/Preview_10.jpg",
+      "column": 2,
+      "layout": "bannerImage",
+      "category": 4
+    },
+
+    {
+      "imageBanner": "http://s3-ap-southeast-1.amazonaws.com/mstore-bucket.io/wp-content/uploads/2019/02/25142018/collection.png",
+      "layout": "bannerImage",
+      "height": 160,
+      "imageMode": "cover",
+      "category": 18
+    }
+  ],
+  "MainColor": "#3FC1BE"
+}

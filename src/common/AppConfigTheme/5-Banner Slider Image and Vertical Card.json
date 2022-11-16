@@ -1,0 +1,26 @@
+{
+  "Magento": {
+    "url": "http://magento-demo.mstore.io",
+    "accessToken": "99g54c7r1gx0a5oo4kisgkqyx8gitkei"
+  },
+  "HorizonLayout": [
+    {
+      "layout": "bannerSlider",
+      "category": 12
+    },
+    {
+      "layout": "circleCategory"
+    },
+    {
+      "name": "featureProducts",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 14
+    }
+  ],
+  "VerticalLayout": {
+    "name": "Recents",
+    "layout": "card"
+  },
+  "MainColor": "#009688"
+}
